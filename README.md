@@ -25,10 +25,5 @@ The dataset was processed and visualized to extract meaningful insights that can
 ## Dashboard Preview
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c13647ba-bd87-4d82-b05f-2416eeb1365b" />
 
-
-## Project Files
-- Tableau Dashboard File (.twbx/.twb)
-- Dataset File (.xlsx)
-
 ## Conclusion
 This project demonstrates the use of data visualization tools to transform raw data into actionable insights. It highlights trends in the EV market and showcases skills in dashboard creation, data analysis, and storytelling.
