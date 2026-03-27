@@ -23,7 +23,8 @@ The dataset was processed and visualized to extract meaningful insights that can
 - Certain regions show higher EV concentration
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c13647ba-bd87-4d82-b05f-2416eeb1365b" />
+
 
 ## Project Files
 - Tableau Dashboard File (.twbx/.twb)
